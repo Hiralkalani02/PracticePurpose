@@ -1,6 +1,6 @@
 package HomePactice;
 
-//In method overloading multiple methods can have same manes with different parameters
+//In method overloading multiple methods can have same names with different parameters
 public class MethodOverLoading {
     static int plusMethodInt(int x, int y) {
         return x + y;
